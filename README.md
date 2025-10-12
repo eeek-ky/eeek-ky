@@ -5,5 +5,5 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6b8463f8-577c-4b6e-8a5b-72c678c64122" width="50%" />
 </p>
-
+<h1 align="center"> not my art </h1>
 <h1 align="center">eeekky on basically every platform ‼️</h1>
