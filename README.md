@@ -1,7 +1,9 @@
 <!-- Banner (Imagen 1): reemplaza la URL por la tuya -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d772cd66-9618-4bf9-9d89-577d007b4dc4" alt="Banner" width="50%"
-
+    
+</p>
+  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/78edd615-8ad5-4376-a865-e55ca7980c97" alt="Banner" width="50%"
 
