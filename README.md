@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/3190cb3e-4fc7-428b-a438-494f532ed0c2" alt="Banner" width="50%"
     
 </p>
-
+ART BY @2014truther ON TIKTOK
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d772cd66-9618-4bf9-9d89-577d007b4dc4" alt="Banner" width="50%"
     
