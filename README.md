@@ -1,7 +1,7 @@
 <!-- Banner (Imagen 1): reemplaza la URL por la tuya -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7f2c797d-f527-45f3-917f-d7648742d8fa" alt="Banner" width="100%"
-    
+    <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3624b296-f05d-4bcf-8a38-c8abf10d1424" alt="Banner" width="20%"
     
