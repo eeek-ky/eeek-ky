@@ -4,7 +4,7 @@
     <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
 
 <p align="center">
-  <img src="github.com/user-attachments/assets/b18de27f-f699-42fb-970d-789c9f44f776" alt="Banner" width="100%"
+  <img src="https://github.com/user-attachments/assets/db4d96a4-e060-48af-822c-6ff949c76c36" alt="Banner" width="100%"
     
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3624b296-f05d-4bcf-8a38-c8abf10d1424" alt="Banner" width="20%"
