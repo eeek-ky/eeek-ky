@@ -1,6 +1,6 @@
 <!-- Banner (Imagen 1): reemplaza la URL por la tuya -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3190cb3e-4fc7-428b-a438-494f532ed0c2" alt="Banner" width="50%"
+  <img src="![Uploading image.png…]()" alt="Banner" width="50%"
     
 </p>
 <br>
