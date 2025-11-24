@@ -13,11 +13,13 @@
 
 </p>
 <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/532b111f-8472-4502-a73f-cf196576b22d" width="100%" />
+
 
   <p align="center">
   <img src="https://github.com/user-attachments/assets/db4d96a4-e060-48af-822c-6ff949c76c36" alt="Banner" width="10%"
     
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/532b111f-8472-4502-a73f-cf196576b22d" width="100%" />
+
 </p>
 
