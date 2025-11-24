@@ -4,9 +4,9 @@
     <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3624b296-f05d-4bcf-8a38-c8abf10d1424" alt="Banner" width="20%"
-      <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
+   
 </p>
-
+   <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/78edd615-8ad5-4376-a865-e55ca7980c97" alt="Banner" width="50%"
 
