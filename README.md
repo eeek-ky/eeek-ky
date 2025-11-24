@@ -8,11 +8,10 @@
 </p>
    <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/78edd615-8ad5-4376-a865-e55ca7980c97" alt="Banner" width="50%"
+  <img src="https://github.com/user-attachments/assets/b434a05c-6adf-423f-ad1a-a9e69a65f514" alt="Banner" width="50%"
 
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6b8463f8-577c-4b6e-8a5b-72c678c64122" width="50%" />
 </p>
-<h1 align="center"> not my art </h1>
-<h1 align="center">eeekky on basically every platform （￣︶￣）↗　‼️</h1>
+
