@@ -11,6 +11,7 @@
   <img src="https://github.com/user-attachments/assets/b434a05c-6adf-423f-ad1a-a9e69a65f514" alt="Banner" width="50%"
 
 </p>
+<p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/532b111f-8472-4502-a73f-cf196576b22d" width="100%" />
 </p>
