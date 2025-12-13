@@ -8,9 +8,12 @@
   <img src="https://github.com/user-attachments/assets/1aebd364-0812-4d44-b740-7f49ecea6aa1" width="18%" style="vertical-align: top;" /> 
 </p>
 
+<p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
+
+
 
 </p>
-  <br><img width="478" height="522" alt="chibi_val-removebg-preview" src="https://github.com/user-attachments/assets/34318efb-a882-4129-9cf6-12f3836c5d13" />
+  <br><img width="478" height="522" alt="chibi_val-removebg-preview" src="https://github.com/user-attachments/assets/83829360-dad3-4fa4-a511-0714a367df6d" />
 
   <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
 
