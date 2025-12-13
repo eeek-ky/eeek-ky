@@ -5,7 +5,8 @@
   <img src="https://github.com/user-attachments/assets/7ceae874-2a39-4786-b18e-f5796bfb1c55" alt="Banner" width="20%"
    
 </p>
-<p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- </p>
+<p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.---
+</p>
 
 <text align="center"> 🎄 color my tree! https://colormytree.me/2025/01KBKXJPV7FDEGQ8151T58P51X
  
