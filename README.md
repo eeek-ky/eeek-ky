@@ -1,6 +1,6 @@
 <!-- Banner (Imagen 1): reemplaza la URL por la tuya -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b087bd10-2f84-46ed-8c75-ba86b98e3208" alt="Banner" width="100%"
+  <img src="https://github.com/user-attachments/assets/ea5551c4-0951-413a-ad60-41115f5ae613" alt="Banner" width="100%"
 <text align="center"> 🎄 color my tree! https://colormytree.me/2025/01KBKXJPV7FDEGQ8151T58P51X
   <p align="center">
   <img src="https://github.com/user-attachments/assets/0bffef76-76ad-47c9-863d-fbd6de377562" alt="Banner" width="20%"
