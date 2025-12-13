@@ -14,10 +14,11 @@
 </p>
    <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b434a05c-6adf-423f-ad1a-a9e69a65f514" alt="Banner" width="50%"
+  <img src="https://github.com/user-attachments/assets/1aebd364-0812-4d44-b740-7f49ecea6aa1" alt="Banner" width="50%"
 
 </p>
-  <br>
+  <br><img width="478" height="522" alt="chibi_val-removebg-preview" src="https://github.com/user-attachments/assets/34318efb-a882-4129-9cf6-12f3836c5d13" />
+
   <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
   
 <p align="center">
