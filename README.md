@@ -13,7 +13,6 @@
 
 
 </p>
-  <br><img width="478" height="522" alt="chibi_val-removebg-preview" src="https://github.com/user-attachments/assets/83829360-dad3-4fa4-a511-0714a367df6d" />
 
   <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
 
