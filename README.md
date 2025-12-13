@@ -13,10 +13,9 @@
   <br><img width="478" height="522" alt="chibi_val-removebg-preview" src="https://github.com/user-attachments/assets/34318efb-a882-4129-9cf6-12f3836c5d13" />
 
   <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
-  ![Uploading image_2025-12-13_123429381-removebg-preview.png…]()
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3624b296-f05d-4bcf-8a38-c8abf10d1424" alt="Banner" width="20%"
+  <img src="https://github.com/user-attachments/assets/3a05eb9e-3926-48e1-92c8-b7cbcbf21b51" alt="Banner" width="20%"
    
 </p>
 
