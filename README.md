@@ -10,7 +10,9 @@
 
 <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a05eb9e-3926-48e1-92c8-b7cbcbf21b51" alt="Banner" width="20%"
+   
 
 </p>
 
