@@ -8,7 +8,7 @@
 <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.---
 </p>
 
-<text align="center"> 🎄 color my tree! https://colormytree.me/2025/01KBKXJPV7FDEGQ8151T58P51X
+<p align="center">🎄 color my tree! https://colormytree.me/2025/01KBKXJPV7FDEGQ8151T58P51X</p>
  
 
 <p align="center">
