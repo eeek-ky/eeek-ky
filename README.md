@@ -4,7 +4,7 @@
 <text align="center"> 🎄 color my tree! https://colormytree.me/2025/01KBKXJPV7FDEGQ8151T58P51X
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f015857a-b75c-40cf-a4fa-2901f6a7f65a" width="20%" style="vertical-align: top;" />
-  <img src="https://github.com/user-attachments/assets/0740cceb-7a9c-4792-9ed3-3c321e8d5117" width="20%" />
+  <img src="https://github.com/user-attachments/assets/0740cceb-7a9c-4792-9ed3-3c321e8d5117" width="20%" style="vertical-align: top;" />
   <img src="https://github.com/user-attachments/assets/1aebd364-0812-4d44-b740-7f49ecea6aa1" width="18%" style="vertical-align: top;" /> 
 </p>
 
