@@ -9,7 +9,7 @@
   <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
   
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3624b296-f05d-4bcf-8a38-c8abf10d1424" alt="Banner" width="20%"
+  <img src="https://github.com/user-attachments/assets/054035c9-9555-4198-8b0c-92e8c6bc8bbf" alt="Banner" width="20%"
    
 </p>
    <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
