@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/ea5551c4-0951-413a-ad60-41115f5ae613" alt="Banner" width="100%"
 <text align="center"> 🎄 color my tree! https://colormytree.me/2025/01KBKXJPV7FDEGQ8151T58P51X
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/0bffef76-76ad-47c9-863d-fbd6de377562" alt="Banner" width="20%"
+  <img src="https://github.com/user-attachments/assets/0740cceb-7a9c-4792-9ed3-3c321e8d5117" alt="Banner" width="20%"
     
   <br>
   <p align="center"> ---.𖥔 ݁ ˖ 𖥔 ˖ ݁ 𖥔.--- 
