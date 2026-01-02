@@ -24,3 +24,6 @@
 ° 𓈒 <b>int! <span style="color:#f2cfd7;">c+h alwayss , read carrd</span></b>  
 <span style="color:#f2cfd7;"><b>truly</b></span> yours ⍛ ⊹
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/52939bdd-0fb6-4dda-935b-8d86cd908576" alt="Banner" width="100%"
+    </p>
