@@ -15,7 +15,7 @@
 
 <br>
 
-<b><a href="https://neospring.org/@puerile">credit</a></b>  ՞  ꔫ
+<b><a href="https://eeekky.carrd.co">carrd</a></b>  ՞  ꔫ
 
 <br>
 
