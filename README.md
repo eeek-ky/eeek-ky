@@ -5,11 +5,11 @@
 <br>
 
 <p>
-  𓈒  “ <b><span style="color:#f2cfd7;">name</span></b> ” ♡
+  𓈒  “ <b><span style="color:#f2cfd7;">eeekky</span></b> ” ♡
 <img src="https://github.com/user-attachments/assets/afcf8f3e-5afc-4c6a-8e9a-7eac846181a5" width="15" alt="small deco" />
 
-- <span style="color:#f2cfd7;"><b>prn</b></span> ⨟ *prn*
-- ₊ ˚ age ✞
+- <span style="color:#f2cfd7;"><b>prn</b></span> ⨟ *she / he*
+- ₊ ˚ 17yo ✞
 
 <img src="https://i.postimg.cc/sgp85DJ2/small.png" width="130" alt="small deco" />
 
@@ -20,5 +20,5 @@
 <br>
 
 ° 𓈒 <b>sexu<span style="color:#f2cfd7;">ality</span></b>  
-<span style="color:#f2cfd7;"><b>gen</b></span>der ⍛ ⊹
+<span style="color:#f2cfd7;"><b>truly</b></span> yours ⍛ ⊹
 
