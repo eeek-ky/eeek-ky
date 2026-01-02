@@ -17,7 +17,7 @@
 
 <br>
 
-<b><a href="https://eeekky.carrd.co">carrd</a></b>  ՞  ꔫ   ՞  <a href="eeekkyart.straw.page">art</a></b>
+<b><a href="https://eeekky.carrd.co">carrd</a></b>  ՞  ꔫ   ՞  <a href="https://eeekkyart.straw.page">art</a></b>
 
 <br>
 
