@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1edbcaa3-9cf9-4d23-a6e8-a0d1856fcf24" alt="Banner" width="100%"
 <img align="right" src="https://i.postimg.cc/43s0Pk8Q/img.png" width="240" alt="profile image" />
-
+</p>
 <br>
 
 <p>
