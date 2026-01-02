@@ -21,3 +21,6 @@
 
 ° 𓈒 <b>sexu<span style="color:#f2cfd7;">ality</span></b>  
 <span style="color:#f2cfd7;"><b>gen</b></span>der ⍛ ⊹
+
+Normal text — <span style="color:#f2cfd7;">pink test</span> — **bold**
+
