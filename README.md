@@ -19,6 +19,6 @@
 
 <br>
 
-° 𓈒 <b>bise<span style="color:#f2cfd7;">xual</span></b>  
+° 𓈒 <b>int! <span style="color:#f2cfd7;">c+h alwayss , read carrd</span></b>  
 <span style="color:#f2cfd7;"><b>truly</b></span> yours ⍛ ⊹
 
