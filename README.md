@@ -6,7 +6,7 @@
 
 <p>
   𓈒  “ <b><span style="color:#f2cfd7;">name</span></b> ” ♡
-</p>
+</p> <img src="https://github.com/user-attachments/assets/b01ab54f-7302-4124-a2bb-ae74fb35adf6" width="3" alt="small deco" />
 
 - <span style="color:#f2cfd7;"><b>prn</b></span> ⨟ *prn*
 - ₊ ˚ age ✞
